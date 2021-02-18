@@ -12,3 +12,9 @@ x=0
 forxinrange(0,n):
 sum+=x
 return sum```
+
+Beforetherulewewant ablankline
+
+---
+
+And afteraswell.
