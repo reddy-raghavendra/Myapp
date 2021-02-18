@@ -20,3 +20,4 @@ Beforetherulewewant ablankline
 
 And afteraswell.
 **[page](test.md)**
+[page](test.md)
