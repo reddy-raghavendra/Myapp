@@ -6,4 +6,9 @@
 ASASa
 
 
-The function `sumIt` has the definition`def sumIt(n):x=0forxinrange(0,n):sum+=xreturn sum`
+The function `sumIt` has the definition
+`def sumIt(n):
+x=0
+forxinrange(0,n):
+sum+=x
+return sum`
