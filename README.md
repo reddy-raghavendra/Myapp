@@ -16,7 +16,6 @@ return sum
 ```
 
 Beforetherulewewant ablankline
-
 ---
 
 And afteraswell.
